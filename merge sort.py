@@ -1,4 +1,4 @@
-# Just an example
+# This is just an example
 def merge(a,b):
     """ Function to merge two arrays """
     c = []
